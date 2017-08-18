@@ -329,6 +329,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [jc](https://github.com/jr0senblum/jc) - In-memory, distributable cache with pub/sub, JSON-query and consistency support.
 * [locker](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 * [lru_cache](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
+* [nebulex](https://github.com/cabol/nebulex) - A fast, flexible and powerful caching library for Elixir, not only local but also distributed.
 * [stash](https://github.com/zackehh/stash) - A straightforward, fast, and user-friendly key/value store.
 
 ## Chatting
